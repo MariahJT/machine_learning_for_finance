@@ -3,7 +3,7 @@ SARSA, Q-learning and Recurrent Reinforcement Learning for Asset Trading
 
 
 ## Authors:
-Eléonore Blanchard
-Ines Deguy
-JingTan
+Eléonore Blanchard\
+Ines Deguy\
+Jing Tan\
 Yannick Ly
