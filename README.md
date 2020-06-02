@@ -1,9 +1,9 @@
-# machine_learning_for_finance
+# Machine Learning for Finance
 SARSA, Q-learning and Recurrent Reinforcement Learning for Asset Trading 
 
 
-# Authors:
-Eléonore Blanchard\\
-Ines Deguy\\
-JingTan\\
+## Authors:
+Eléonore Blanchard
+Ines Deguy
+JingTan
 Yannick Ly
